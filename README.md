@@ -8,7 +8,7 @@ docker-compose up -d
 # to ssh to container:
 chmod 600 id_rsa\
 ssh -i id_rsa ssh://root@localhost:2022
-# or if you want to use your own key generate it and put id_rsa.pub into ssh-apache/docker_new then stop and rebuild the container:
+# or if you want to use your own key generate it and put id_rsa.pub into ssh-apache/docker_new/keys then stop and rebuild the container:
 cp /home/user/.ssh/id_rsa.pub /ssh-apache/docker_new/keys\
 docker stop docker-v1\
 docker-compose build\
