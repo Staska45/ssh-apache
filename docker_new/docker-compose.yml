@@ -1,0 +1,16 @@
+version: '3.3'
+services:
+  docker-v1:
+    build: .
+    hostname: ${NAME}
+    image: ${NAME}
+    volumes:
+      - ./app:/var/www/app
+      - ./sh:/sh
+      - ./var_log:/var/log
+      - ./keys:/keys:ro
+    ports:
+      - "2080:80"
+      - "2022:22"
+    container_name: "${NAME}"
+    entrypoint: /sh/docker_start.sh

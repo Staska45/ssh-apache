@@ -1,0 +1,486 @@
+2022-01-16 18:10:04,224 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-01-16 18:10:04,224 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 18:10:04,228 INFO RPC interface 'supervisor' initialized
+2022-01-16 18:10:04,228 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 18:10:04,228 INFO supervisord started with pid 57
+2022-01-16 18:10:05,231 INFO spawned: 'sshd' with pid 59
+2022-01-16 18:10:05,252 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:10:06,256 INFO spawned: 'sshd' with pid 60
+2022-01-16 18:10:06,275 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:10:08,279 INFO spawned: 'sshd' with pid 61
+2022-01-16 18:10:08,294 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:10:11,299 INFO spawned: 'sshd' with pid 62
+2022-01-16 18:10:11,314 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:10:12,315 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 18:38:52,282 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-01-16 18:38:52,282 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 18:38:52,286 INFO RPC interface 'supervisor' initialized
+2022-01-16 18:38:52,286 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 18:38:52,287 INFO supervisord started with pid 58
+2022-01-16 18:38:53,290 INFO spawned: 'sshd' with pid 60
+2022-01-16 18:38:53,307 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:38:54,310 INFO spawned: 'sshd' with pid 61
+2022-01-16 18:38:54,325 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:38:56,329 INFO spawned: 'sshd' with pid 62
+2022-01-16 18:38:56,348 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:38:59,354 INFO spawned: 'sshd' with pid 63
+2022-01-16 18:38:59,373 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:39:00,374 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 18:44:55,299 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-01-16 18:44:55,299 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 18:44:55,303 INFO RPC interface 'supervisor' initialized
+2022-01-16 18:44:55,304 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 18:44:55,304 INFO supervisord started with pid 57
+2022-01-16 18:44:56,306 INFO spawned: 'sshd' with pid 59
+2022-01-16 18:44:56,324 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:44:57,327 INFO spawned: 'sshd' with pid 60
+2022-01-16 18:44:57,343 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:44:59,347 INFO spawned: 'sshd' with pid 61
+2022-01-16 18:44:59,366 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:45:02,371 INFO spawned: 'sshd' with pid 62
+2022-01-16 18:45:02,386 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:45:03,388 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 18:49:56,844 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-01-16 18:49:56,844 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 18:49:56,851 INFO RPC interface 'supervisor' initialized
+2022-01-16 18:49:56,852 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 18:49:56,852 INFO supervisord started with pid 77
+2022-01-16 18:49:57,855 INFO spawned: 'sshd' with pid 79
+2022-01-16 18:49:57,874 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:49:58,878 INFO spawned: 'sshd' with pid 80
+2022-01-16 18:49:58,898 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:50:00,902 INFO spawned: 'sshd' with pid 81
+2022-01-16 18:50:00,917 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:50:03,922 INFO spawned: 'sshd' with pid 82
+2022-01-16 18:50:03,939 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:50:04,940 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 18:51:05,003 WARN received SIGINT indicating exit request
+2022-01-16 18:55:56,441 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-01-16 18:55:56,441 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 18:55:56,445 INFO RPC interface 'supervisor' initialized
+2022-01-16 18:55:56,445 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 18:55:56,445 INFO supervisord started with pid 57
+2022-01-16 18:55:57,449 INFO spawned: 'sshd' with pid 59
+2022-01-16 18:55:57,467 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:55:58,470 INFO spawned: 'sshd' with pid 60
+2022-01-16 18:55:58,486 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:56:00,489 INFO spawned: 'sshd' with pid 61
+2022-01-16 18:56:00,512 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:56:03,517 INFO spawned: 'sshd' with pid 62
+2022-01-16 18:56:03,536 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:56:04,537 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 18:58:50,260 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 18:58:50,260 INFO Set uid to user 0 succeeded
+2022-01-16 18:58:50,264 INFO RPC interface 'supervisor' initialized
+2022-01-16 18:58:50,264 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 18:58:50,264 INFO supervisord started with pid 58
+2022-01-16 18:58:51,268 INFO spawned: 'sshd' with pid 60
+2022-01-16 18:58:51,287 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:58:52,291 INFO spawned: 'sshd' with pid 61
+2022-01-16 18:58:52,312 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:58:54,316 INFO spawned: 'sshd' with pid 62
+2022-01-16 18:58:54,331 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:58:57,336 INFO spawned: 'sshd' with pid 63
+2022-01-16 18:58:57,353 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 18:58:58,354 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:02:21,488 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:02:21,488 INFO Set uid to user 0 succeeded
+2022-01-16 19:02:21,796 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:02:21,796 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:02:21,796 INFO supervisord started with pid 46
+2022-01-16 19:02:22,800 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:02:23,802 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-16 19:02:53,982 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:02:53,982 INFO Set uid to user 0 succeeded
+2022-01-16 19:02:54,291 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:02:54,291 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:02:54,292 INFO supervisord started with pid 45
+2022-01-16 19:02:55,294 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:02:56,296 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-16 19:06:19,712 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:06:19,712 INFO Set uid to user 0 succeeded
+2022-01-16 19:06:19,716 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:06:19,716 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:06:19,717 INFO supervisord started with pid 52
+2022-01-16 19:06:20,719 INFO spawned: 'sshd' with pid 54
+2022-01-16 19:06:20,734 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:06:21,736 INFO spawned: 'sshd' with pid 55
+2022-01-16 19:06:21,750 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:06:23,754 INFO spawned: 'sshd' with pid 56
+2022-01-16 19:06:23,773 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:06:26,779 INFO spawned: 'sshd' with pid 57
+2022-01-16 19:06:26,798 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:06:27,799 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:06:49,822 WARN received SIGINT indicating exit request
+2022-01-16 19:09:43,094 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:09:43,094 INFO Set uid to user 0 succeeded
+2022-01-16 19:09:43,098 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:09:43,098 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:09:43,098 INFO supervisord started with pid 52
+2022-01-16 19:09:44,102 INFO spawned: 'sshd' with pid 54
+2022-01-16 19:09:44,120 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:09:45,124 INFO spawned: 'sshd' with pid 55
+2022-01-16 19:09:45,141 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:09:47,144 INFO spawned: 'sshd' with pid 56
+2022-01-16 19:09:47,160 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:09:50,166 INFO spawned: 'sshd' with pid 57
+2022-01-16 19:09:50,181 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:09:51,183 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:09:54,187 WARN received SIGINT indicating exit request
+2022-01-16 19:11:35,446 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:11:35,446 INFO Set uid to user 0 succeeded
+2022-01-16 19:11:35,450 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:11:35,450 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:11:35,450 INFO supervisord started with pid 45
+2022-01-16 19:11:36,453 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:11:36,475 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:11:37,479 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:11:37,494 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:11:39,498 INFO spawned: 'sshd' with pid 49
+2022-01-16 19:11:39,517 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:11:42,521 INFO spawned: 'sshd' with pid 50
+2022-01-16 19:11:42,536 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:11:43,536 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:14:55,518 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:14:55,518 INFO Set uid to user 0 succeeded
+2022-01-16 19:14:55,825 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:14:55,825 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:14:55,826 INFO supervisord started with pid 45
+2022-01-16 19:14:56,829 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:14:56,844 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:14:57,847 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:14:57,862 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:14:59,866 INFO spawned: 'sshd' with pid 49
+2022-01-16 19:14:59,886 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:15:02,891 INFO spawned: 'sshd' with pid 50
+2022-01-16 19:15:02,905 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:15:03,907 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:16:53,374 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:16:53,374 INFO Set uid to user 0 succeeded
+2022-01-16 19:16:53,679 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:16:53,679 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:16:53,680 INFO supervisord started with pid 43
+2022-01-16 19:16:54,682 INFO spawned: 'sshd' with pid 45
+2022-01-16 19:16:54,702 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:16:55,706 INFO spawned: 'sshd' with pid 46
+2022-01-16 19:16:55,721 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:16:57,725 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:16:57,740 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:17:00,746 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:17:00,762 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:17:01,764 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:23:09,953 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:23:09,953 INFO Set uid to user 0 succeeded
+2022-01-16 19:23:09,958 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:23:09,958 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:23:09,958 INFO supervisord started with pid 43
+2022-01-16 19:23:10,961 INFO spawned: 'sshd' with pid 45
+2022-01-16 19:23:11,963 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-16 19:25:12,818 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:25:12,819 INFO Set uid to user 0 succeeded
+2022-01-16 19:25:12,823 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:25:12,823 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:25:12,823 INFO supervisord started with pid 51
+2022-01-16 19:25:13,826 INFO spawned: 'sshd' with pid 53
+2022-01-16 19:25:13,843 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:25:14,846 INFO spawned: 'sshd' with pid 54
+2022-01-16 19:25:14,860 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:25:16,864 INFO spawned: 'sshd' with pid 55
+2022-01-16 19:25:16,885 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:25:19,890 INFO spawned: 'sshd' with pid 56
+2022-01-16 19:25:19,908 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:25:20,909 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:25:32,921 WARN received SIGINT indicating exit request
+2022-01-16 19:25:50,902 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:25:50,902 INFO Set uid to user 0 succeeded
+2022-01-16 19:25:51,211 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:25:51,211 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:25:51,212 INFO supervisord started with pid 44
+2022-01-16 19:25:52,215 INFO spawned: 'sshd' with pid 46
+2022-01-16 19:25:53,217 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-16 19:32:12,164 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:32:12,164 INFO Set uid to user 0 succeeded
+2022-01-16 19:32:12,168 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:32:12,168 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:32:12,168 INFO supervisord started with pid 43
+2022-01-16 19:32:13,172 INFO spawned: 'sshd' with pid 45
+2022-01-16 19:32:13,188 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:32:14,192 INFO spawned: 'sshd' with pid 46
+2022-01-16 19:32:14,206 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:32:16,210 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:32:16,224 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:32:19,229 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:32:19,242 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:32:20,244 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:35:10,589 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:35:10,589 INFO Set uid to user 0 succeeded
+2022-01-16 19:35:10,592 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:35:10,592 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:35:10,592 INFO supervisord started with pid 52
+2022-01-16 19:35:58,505 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:35:58,505 INFO Set uid to user 0 succeeded
+2022-01-16 19:35:58,812 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:35:58,812 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:35:58,812 INFO supervisord started with pid 52
+2022-01-16 19:38:27,740 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:38:27,740 INFO Set uid to user 0 succeeded
+2022-01-16 19:38:28,046 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:38:28,047 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:38:28,047 INFO supervisord started with pid 69
+2022-01-16 19:44:19,091 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:44:19,091 INFO Set uid to user 0 succeeded
+2022-01-16 19:44:19,095 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:44:19,095 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:44:19,095 INFO supervisord started with pid 43
+2022-01-16 19:44:20,098 INFO spawned: 'sshd' with pid 45
+2022-01-16 19:44:20,115 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:44:21,119 INFO spawned: 'sshd' with pid 46
+2022-01-16 19:44:21,136 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:44:23,140 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:44:23,156 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:44:26,162 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:44:26,181 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:44:27,183 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:46:36,041 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:46:36,041 INFO Set uid to user 0 succeeded
+2022-01-16 19:46:36,045 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:46:36,045 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:46:36,045 INFO supervisord started with pid 43
+2022-01-16 19:46:37,048 INFO spawned: 'sshd' with pid 45
+2022-01-16 19:46:37,069 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:46:38,072 INFO spawned: 'sshd' with pid 46
+2022-01-16 19:46:38,086 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:46:40,090 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:46:40,107 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:46:43,112 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:46:43,126 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:46:44,127 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:49:46,061 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:49:46,061 INFO Set uid to user 0 succeeded
+2022-01-16 19:49:46,065 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:49:46,065 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:49:46,065 INFO supervisord started with pid 43
+2022-01-16 19:49:47,068 INFO spawned: 'sshd' with pid 45
+2022-01-16 19:49:47,085 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:49:48,088 INFO spawned: 'sshd' with pid 46
+2022-01-16 19:49:48,108 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:49:50,112 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:49:50,129 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:49:53,134 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:49:53,148 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:49:54,149 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:50:39,284 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:50:39,285 INFO Set uid to user 0 succeeded
+2022-01-16 19:50:39,292 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:50:39,292 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:50:39,293 INFO supervisord started with pid 43
+2022-01-16 19:50:40,296 INFO spawned: 'sshd' with pid 45
+2022-01-16 19:50:40,316 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:50:41,320 INFO spawned: 'sshd' with pid 46
+2022-01-16 19:50:41,340 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:50:43,345 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:50:43,363 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:50:46,367 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:50:46,386 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:50:47,388 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:51:38,298 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-01-16 19:51:38,298 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:51:38,302 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:51:38,302 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:51:38,302 INFO supervisord started with pid 43
+2022-01-16 19:51:39,305 INFO spawned: 'sshd' with pid 45
+2022-01-16 19:51:39,322 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:51:40,326 INFO spawned: 'sshd' with pid 46
+2022-01-16 19:51:40,337 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:51:42,342 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:51:42,359 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:51:45,363 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:51:45,378 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:51:46,380 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:52:14,925 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:52:14,925 INFO Set uid to user 0 succeeded
+2022-01-16 19:52:14,929 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:52:14,929 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:52:14,929 INFO supervisord started with pid 43
+2022-01-16 19:52:15,932 INFO spawned: 'sshd' with pid 45
+2022-01-16 19:52:15,951 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:52:16,953 INFO spawned: 'sshd' with pid 46
+2022-01-16 19:52:16,973 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:52:18,977 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:52:18,995 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:55:04,436 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:55:04,436 INFO Set uid to user 0 succeeded
+2022-01-16 19:55:04,440 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:55:04,440 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:55:04,441 INFO supervisord started with pid 43
+2022-01-16 19:55:05,443 INFO spawned: 'sshd' with pid 45
+2022-01-16 19:55:05,460 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:55:06,464 INFO spawned: 'sshd' with pid 46
+2022-01-16 19:55:06,480 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:55:08,484 INFO spawned: 'sshd' with pid 47
+2022-01-16 19:55:08,493 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:55:11,497 INFO spawned: 'sshd' with pid 48
+2022-01-16 19:55:11,510 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 19:55:12,512 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 19:56:47,095 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 19:56:47,095 INFO Set uid to user 0 succeeded
+2022-01-16 19:56:47,098 INFO RPC interface 'supervisor' initialized
+2022-01-16 19:56:47,098 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 19:56:47,099 INFO supervisord started with pid 62
+2022-01-16 20:06:48,963 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:06:48,963 INFO Set uid to user 0 succeeded
+2022-01-16 20:06:48,966 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:06:48,966 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:06:48,966 INFO supervisord started with pid 77
+2022-01-16 20:07:07,987 WARN received SIGINT indicating exit request
+2022-01-16 20:07:25,771 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:07:25,771 INFO Set uid to user 0 succeeded
+2022-01-16 20:07:25,774 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:07:25,774 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:07:25,774 INFO supervisord started with pid 77
+2022-01-16 20:08:00,809 WARN received SIGINT indicating exit request
+2022-01-16 20:08:58,883 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:08:58,883 INFO Set uid to user 0 succeeded
+2022-01-16 20:08:58,887 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:08:58,888 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:08:58,888 INFO supervisord started with pid 50
+2022-01-16 20:08:59,891 INFO spawned: 'sshd' with pid 52
+2022-01-16 20:08:59,908 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:09:00,911 INFO spawned: 'sshd' with pid 53
+2022-01-16 20:09:00,925 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:09:02,930 INFO spawned: 'sshd' with pid 54
+2022-01-16 20:09:02,950 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:09:05,955 INFO spawned: 'sshd' with pid 55
+2022-01-16 20:09:05,976 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:09:06,976 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 20:09:12,983 WARN received SIGINT indicating exit request
+2022-01-16 20:12:55,598 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:12:55,598 INFO Set uid to user 0 succeeded
+2022-01-16 20:12:55,602 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:12:55,602 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:12:55,602 INFO supervisord started with pid 42
+2022-01-16 20:12:56,605 INFO spawned: 'sshd' with pid 44
+2022-01-16 20:12:56,623 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:12:57,626 INFO spawned: 'sshd' with pid 45
+2022-01-16 20:12:57,640 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:12:59,644 INFO spawned: 'sshd' with pid 46
+2022-01-16 20:12:59,660 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:13:02,666 INFO spawned: 'sshd' with pid 47
+2022-01-16 20:13:02,685 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:13:03,687 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 20:14:42,800 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:14:42,800 INFO Set uid to user 0 succeeded
+2022-01-16 20:14:43,106 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:14:43,106 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:14:43,107 INFO supervisord started with pid 43
+2022-01-16 20:14:44,110 INFO spawned: 'sshd' with pid 45
+2022-01-16 20:14:44,129 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:14:45,133 INFO spawned: 'sshd' with pid 46
+2022-01-16 20:14:45,150 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:14:47,154 INFO spawned: 'sshd' with pid 47
+2022-01-16 20:14:47,173 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:14:50,178 INFO spawned: 'sshd' with pid 48
+2022-01-16 20:14:50,192 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:14:51,193 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 20:15:14,872 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:15:14,872 INFO Set uid to user 0 succeeded
+2022-01-16 20:15:14,878 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:15:14,878 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:15:14,879 INFO supervisord started with pid 42
+2022-01-16 20:15:15,882 INFO spawned: 'sshd' with pid 44
+2022-01-16 20:15:15,894 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:15:16,897 INFO spawned: 'sshd' with pid 45
+2022-01-16 20:15:16,913 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:15:18,917 INFO spawned: 'sshd' with pid 46
+2022-01-16 20:15:18,933 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:15:21,937 INFO spawned: 'sshd' with pid 47
+2022-01-16 20:15:21,954 INFO exited: sshd (exit status 255; not expected)
+2022-01-16 20:15:22,955 INFO gave up: sshd entered FATAL state, too many start retries too quickly
+2022-01-16 20:22:31,404 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:22:31,404 INFO Set uid to user 0 succeeded
+2022-01-16 20:22:31,408 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:22:31,409 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:22:31,409 INFO supervisord started with pid 61
+2022-01-16 20:24:38,674 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:24:38,674 INFO Set uid to user 0 succeeded
+2022-01-16 20:24:38,677 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:24:38,677 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:24:38,678 INFO supervisord started with pid 61
+2022-01-16 20:33:34,810 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:33:34,810 INFO Set uid to user 0 succeeded
+2022-01-16 20:33:34,813 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:33:34,814 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:33:34,814 INFO supervisord started with pid 43
+2022-01-16 20:33:35,817 INFO spawned: 'sshd' with pid 45
+2022-01-16 20:33:36,819 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-16 20:43:09,597 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:43:09,597 INFO Set uid to user 0 succeeded
+2022-01-16 20:43:09,601 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:43:09,601 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:43:09,602 INFO supervisord started with pid 43
+2022-01-16 20:43:10,604 INFO spawned: 'sshd' with pid 45
+2022-01-16 20:43:11,605 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-16 20:47:57,924 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:47:57,924 INFO Set uid to user 0 succeeded
+2022-01-16 20:47:57,928 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:47:57,928 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:47:57,928 INFO supervisord started with pid 43
+2022-01-16 20:47:58,931 INFO spawned: 'sshd' with pid 45
+2022-01-16 20:47:59,933 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-16 20:52:50,527 INFO exited: sshd (exit status 0; expected)
+2022-01-16 20:57:55,628 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 20:57:55,628 INFO Set uid to user 0 succeeded
+2022-01-16 20:57:55,634 INFO RPC interface 'supervisor' initialized
+2022-01-16 20:57:55,634 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 20:57:55,635 INFO supervisord started with pid 43
+2022-01-16 20:57:56,638 INFO spawned: 'sshd' with pid 45
+2022-01-16 20:57:57,639 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-16 21:10:23,101 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 21:10:23,101 INFO Set uid to user 0 succeeded
+2022-01-16 21:10:23,105 INFO RPC interface 'supervisor' initialized
+2022-01-16 21:10:23,105 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 21:10:23,105 INFO supervisord started with pid 44
+2022-01-16 21:10:24,108 INFO spawned: 'sshd' with pid 46
+2022-01-16 21:10:25,110 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-16 21:44:01,351 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-16 21:44:01,351 INFO Set uid to user 0 succeeded
+2022-01-16 21:44:01,662 INFO RPC interface 'supervisor' initialized
+2022-01-16 21:44:01,662 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-16 21:44:01,662 INFO supervisord started with pid 48
+2022-01-16 21:44:02,665 INFO spawned: 'sshd' with pid 50
+2022-01-16 21:44:03,667 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-17 10:01:17,502 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-17 10:01:17,502 INFO Set uid to user 0 succeeded
+2022-01-17 10:01:17,819 INFO RPC interface 'supervisor' initialized
+2022-01-17 10:01:17,819 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-17 10:01:17,820 INFO supervisord started with pid 39
+2022-01-17 10:01:18,824 INFO spawned: 'sshd' with pid 46
+2022-01-17 10:01:19,826 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-17 10:03:19,570 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-17 10:03:19,570 INFO Set uid to user 0 succeeded
+2022-01-17 10:03:19,577 INFO RPC interface 'supervisor' initialized
+2022-01-17 10:03:19,577 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-17 10:03:19,578 INFO supervisord started with pid 44
+2022-01-17 10:03:20,582 INFO spawned: 'sshd' with pid 46
+2022-01-17 10:03:21,584 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-17 10:05:28,876 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-17 10:05:28,876 INFO Set uid to user 0 succeeded
+2022-01-17 10:05:29,185 INFO RPC interface 'supervisor' initialized
+2022-01-17 10:05:29,185 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-17 10:05:29,186 INFO supervisord started with pid 49
+2022-01-17 10:05:30,189 INFO spawned: 'sshd' with pid 51
+2022-01-17 10:05:31,191 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-17 10:08:41,982 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-17 10:08:41,982 INFO Set uid to user 0 succeeded
+2022-01-17 10:08:41,988 INFO RPC interface 'supervisor' initialized
+2022-01-17 10:08:41,988 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-17 10:08:41,989 INFO supervisord started with pid 45
+2022-01-17 10:08:42,993 INFO spawned: 'sshd' with pid 47
+2022-01-17 10:08:43,994 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-01-17 10:11:46,579 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2022-01-17 10:11:46,579 INFO Set uid to user 0 succeeded
+2022-01-17 10:11:46,887 INFO RPC interface 'supervisor' initialized
+2022-01-17 10:11:46,887 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-01-17 10:11:46,888 INFO supervisord started with pid 48
+2022-01-17 10:11:47,892 INFO spawned: 'sshd' with pid 50
+2022-01-17 10:11:48,894 INFO success: sshd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
