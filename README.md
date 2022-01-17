@@ -9,10 +9,10 @@ docker-compose up -d
 chmod 600 id_rsa
 ssh -i id_rsa ssh://root@localhost:2022
 # or if you want to use your own key generate it and put id_rsa.pub into ssh-apache/docker_new then stop and rebuild the container:
-cp /home/user/.ssh/id_rsa.pub /ssh-apache/docker_new/keys
-docker stop docker-v1
-docker-compose build
-docker-compose up -d
+cp /home/user/.ssh/id_rsa.pub /ssh-apache/docker_new/keys /n
+docker stop docker-v1 /n
+docker-compose build /n
+docker-compose up -d /n
 # apache is running on port 2080 to open php info use curl or open browser and use the url:
 curl http://localhost:2080
 # Files:
